@@ -1,0 +1,18 @@
+/* Tags */
+body{
+  text-align: center;
+}
+/* Ids */
+#login{
+  background-color: orangered;
+  color:antiquewhite;
+}
+#signUp{
+  background-color: orangered;
+  color:antiquewhite;
+}
+/* Class */
+.copy{
+  font-size: 15px;
+  color: gray;
+}

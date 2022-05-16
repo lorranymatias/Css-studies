@@ -1,0 +1,18 @@
+.flex{
+  display: flex;
+  background-color:  #ffc107;
+}
+.flex div{
+  border: 5px solid black;
+  margin: 20px;
+  flex-basis: 100%;
+  background-color: #d62300;
+}
+.flex img{
+  max-width: 400px;
+}
+p{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}

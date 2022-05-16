@@ -1,0 +1,13 @@
+li, h1{
+  color:aqua
+}
+p{
+  text-decoration: underline;
+  color: gray;
+}
+li{
+  color: black;
+}
+ul{
+border: 1px solid black
+}
